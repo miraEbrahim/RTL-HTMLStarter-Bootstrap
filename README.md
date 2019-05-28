@@ -1,18 +1,18 @@
 # Bootstrap Starter RTL Template
 
-#Overview
+# Overview
 This is a basic bootstrap starter document designed for RTL (right-to-left) languages such as
 Arabic, Hebrew, Persian, and Urdu.
 
-#Usage
+# Usage
 Use this document as a starter page for any new RTL project.
 
-#Contents
+# Contents
 It includes a barebones html document with a fixed top navbar, a large callout called a jumbotron, three supporting pieces of content and a fixed-bottom footer
 
-#How To Use
+# How To Use
 
-##Steps
+## Steps
 
 1. Download or Clone Git repository
 
@@ -39,5 +39,5 @@ You will also see any lint errors in the console.
 
 ## Notes
 
-###Live Server
+### Live Server
 This is a little development server with live reload capability. Use it for hacking your HTML/JavaScript/CSS files, but not for deploying the final site.
